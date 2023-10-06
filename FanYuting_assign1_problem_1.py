@@ -1,0 +1,15 @@
+step_1="1. Obtain bread"
+step_2="2. Obtain knife"
+step_3="3. Obtain a toaster"
+step_4="4. Obtain butter"
+step_5="5. Reach to the toaster"
+step_6="6. Put bread in the toaster"
+step_7="7. Start the toaster"
+step_8="8. Wait the toaster to stop cooking"
+step_9="9. Get the bread out of the toaster"
+step_10="10. Pick up a knife"
+step_11="11. Put some butter on the knife"
+step_12="12. Spread the knife with butter all over thhe bread"
+step_13="13. Eat the bread"
+
+print(step_1,step_2,step_3,step_4,step_5,step_6,step_7,step_8,step_9,step_10,step_11,step_12,step_13,sep="\n")
